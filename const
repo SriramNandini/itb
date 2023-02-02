@@ -1,2 +1,5 @@
-const pi=3.14
- 
+const pi=3.14;
+var radius=3;
+function(){
+  console.log(pi*radius*radius);
+}
